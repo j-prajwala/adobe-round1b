@@ -1,0 +1,24 @@
+{
+  "metadata": {
+    "input_documents": ["doc1.pdf", "doc2.pdf"],
+    "persona": "PhD Researcher in Computational Biology",
+    "job_to_be_done": "Literature review on Graph Neural Networks",
+    "timestamp": "2025-07-28T14:00:00"
+  },
+  "extracted_sections": [
+    {
+      "document": "doc1.pdf",
+      "page": 2,
+      "section_title": "Graph Neural Networks Overview",
+      "importance_rank": 1
+    }
+  ],
+  "sub_section_analysis": [
+    {
+      "document": "doc1.pdf",
+      "page": 2,
+      "refined_text": "GNNs are neural networks designed for graph-structured data...",
+      "importance_rank": 1
+    }
+  ]
+}

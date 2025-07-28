@@ -1,0 +1,597 @@
+{
+  "metadata": {
+    "input_documents": [
+      "1406.2661v1.pdf",
+      "1512.03385v1.pdf",
+      "1706.03762v7.pdf",
+      "1804.02767v1.pdf",
+      "1810.04805v2.pdf"
+    ],
+    "persona": "PhD Researcher in Computational Biology  \nThe researcher specializes in drug discovery using advanced machine learning methods. They have deep expertise in bioinformatics, graph neural networks, and biomedical datasets. The focus is on understanding cutting-edge methodologies and comparing experimental performance benchmarks in the context of computational drug discovery.",
+    "job_to_be_done": "Prepare a comprehensive literature review focusing on methodologies, datasets, and performance benchmarks from the provided research papers on Graph Neural Networks for Drug Discovery.",
+    "timestamp": "2025-07-28T20:14:49.938031"
+  },
+  "extracted_sections": [
+    {
+      "document": "1406.2661v1.pdf",
+      "page_number": 6,
+      "section_title": "samples are at least competitive with the better generative models in the literature and highlight the",
+      "importance_rank": 0.234
+    },
+    {
+      "document": "1406.2661v1.pdf",
+      "page_number": 5,
+      "section_title": "derivative of the function at the point where the maximum is attained. In other words, if  f ( x ) =",
+      "importance_rank": 0.207
+    },
+    {
+      "document": "1406.2661v1.pdf",
+      "page_number": 1,
+      "section_title": "2   everywhere. In the case where  G  and  D  are deﬁned",
+      "importance_rank": 0.202
+    },
+    {
+      "document": "1406.2661v1.pdf",
+      "page_number": 3,
+      "section_title": "the domain from which  z  is sampled, in this case uniformly. The horizontal line above is part of the domain",
+      "importance_rank": 0.201
+    },
+    {
+      "document": "1512.03385v1.pdf",
+      "page_number": 9,
+      "section_title": "the nonlinear dynamics of learning in deep linear neural networks.",
+      "importance_rank": 0.276
+    },
+    {
+      "document": "1512.03385v1.pdf",
+      "page_number": 8,
+      "section_title": "and COCO segmentation. The details are in the appendix.",
+      "importance_rank": 0.248
+    },
+    {
+      "document": "1512.03385v1.pdf",
+      "page_number": 8,
+      "section_title": "distracting from the focus on the difﬁculties of optimiza-",
+      "importance_rank": 0.241
+    },
+    {
+      "document": "1512.03385v1.pdf",
+      "page_number": 7,
+      "section_title": "is on the behaviors of extremely deep networks, but not on",
+      "importance_rank": 0.236
+    },
+    {
+      "document": "1512.03385v1.pdf",
+      "page_number": 7,
+      "section_title": "on the training set and evaluated on the test set. Our focus",
+      "importance_rank": 0.23
+    },
+    {
+      "document": "1512.03385v1.pdf",
+      "page_number": 2,
+      "section_title": "ImageNet  test  set, and  won the 1st place in the ILSVRC",
+      "importance_rank": 0.222
+    },
+    {
+      "document": "1512.03385v1.pdf",
+      "page_number": 11,
+      "section_title": "won the 1st place in the detection task in COCO 2015.",
+      "importance_rank": 0.221
+    },
+    {
+      "document": "1512.03385v1.pdf",
+      "page_number": 1,
+      "section_title": "on the ImageNet  test  set. This result won the 1st place on the",
+      "importance_rank": 0.214
+    },
+    {
+      "document": "1512.03385v1.pdf",
+      "page_number": 10,
+      "section_title": "ing and the 40k images on the val set for evaluation. Our",
+      "importance_rank": 0.214
+    },
+    {
+      "document": "1512.03385v1.pdf",
+      "page_number": 3,
+      "section_title": "The dimensions of  x  and  F  must be equal in Eqn.(1).",
+      "importance_rank": 0.213
+    },
+    {
+      "document": "1706.03762v7.pdf",
+      "page_number": 5,
+      "section_title": "and queries come from the same place, in this case, the output of the previous layer in the",
+      "importance_rank": 0.3
+    },
+    {
+      "document": "1706.03762v7.pdf",
+      "page_number": 8,
+      "section_title": "in different ways, measuring the change in performance on English-to-German translation on the",
+      "importance_rank": 0.297
+    },
+    {
+      "document": "1706.03762v7.pdf",
+      "page_number": 8,
+      "section_title": "sub-layer input and normalized. In addition, we apply dropout to the sums of the embeddings and the",
+      "importance_rank": 0.25
+    },
+    {
+      "document": "1706.03762v7.pdf",
+      "page_number": 11,
+      "section_title": "across languages. In  Proceedings of the 2009 Conference on Empirical Methods in Natural",
+      "importance_rank": 0.241
+    },
+    {
+      "document": "1706.03762v7.pdf",
+      "page_number": 3,
+      "section_title": "connected layers for both the encoder and decoder, shown in the left and right halves of Figure 1,",
+      "importance_rank": 0.238
+    },
+    {
+      "document": "1706.03762v7.pdf",
+      "page_number": 6,
+      "section_title": "traverse in the network. The shorter these paths between any combination of positions in the input",
+      "importance_rank": 0.234
+    },
+    {
+      "document": "1706.03762v7.pdf",
+      "page_number": 12,
+      "section_title": "and interpretable tree annotation. In  Proceedings of the 21st International Conference on",
+      "importance_rank": 0.233
+    },
+    {
+      "document": "1706.03762v7.pdf",
+      "page_number": 6,
+      "section_title": "the maximum path length between any two input and output positions in networks composed of the",
+      "importance_rank": 0.227
+    },
+    {
+      "document": "1706.03762v7.pdf",
+      "page_number": 5,
+      "section_title": "and the memory keys and values come from the output of the encoder. This allows every",
+      "importance_rank": 0.224
+    },
+    {
+      "document": "1706.03762v7.pdf",
+      "page_number": 11,
+      "section_title": "age recognition. In  Proceedings of the IEEE Conference on Computer Vision and Pattern",
+      "importance_rank": 0.221
+    },
+    {
+      "document": "1804.02767v1.pdf",
+      "page_number": 2,
+      "section_title": "grained features from early on in the network.",
+      "importance_rank": 0.23
+    },
+    {
+      "document": "1804.02767v1.pdf",
+      "page_number": 5,
+      "section_title": "In  Proceedings of the IEEE Conference on Computer Vision",
+      "importance_rank": 0.213
+    },
+    {
+      "document": "1804.02767v1.pdf",
+      "page_number": 5,
+      "section_title": "In  Proceedings of the IEEE Conference on Computer Vision",
+      "importance_rank": 0.213
+    },
+    {
+      "document": "1804.02767v1.pdf",
+      "page_number": 3,
+      "section_title": "performance on medium and larger size objects. More in-",
+      "importance_rank": 0.211
+    },
+    {
+      "document": "1804.02767v1.pdf",
+      "page_number": 4,
+      "section_title": "1 The author is funded by the Ofﬁce of Naval Research and Google.",
+      "importance_rank": 0.201
+    },
+    {
+      "document": "1810.04805v2.pdf",
+      "page_number": 13,
+      "section_title": "conditioned on both left and right context in all layers. In addition to the architecture differences, BERT and",
+      "importance_rank": 0.259
+    },
+    {
+      "document": "1810.04805v2.pdf",
+      "page_number": 11,
+      "section_title": "In  Proceedings of the 2013 conference on",
+      "importance_rank": 0.251
+    },
+    {
+      "document": "1810.04805v2.pdf",
+      "page_number": 12,
+      "section_title": "neural networks? In  Advances in neural information",
+      "importance_rank": 0.247
+    },
+    {
+      "document": "1810.04805v2.pdf",
+      "page_number": 1,
+      "section_title": "the tokens from the input, and the objective is to",
+      "importance_rank": 0.244
+    },
+    {
+      "document": "1810.04805v2.pdf",
+      "page_number": 6,
+      "section_title": "all of the words in the paragraph:  P i  =",
+      "importance_rank": 0.244
+    },
+    {
+      "document": "1810.04805v2.pdf",
+      "page_number": 16,
+      "section_title": "The numbers in the left part of the table repre-",
+      "importance_rank": 0.241
+    },
+    {
+      "document": "1810.04805v2.pdf",
+      "page_number": 10,
+      "section_title": "the 2017 Conference on Empirical Methods in Nat-",
+      "importance_rank": 0.23
+    },
+    {
+      "document": "1810.04805v2.pdf",
+      "page_number": 11,
+      "section_title": "In  Proceedings of the 2018 Conference on Empiri-",
+      "importance_rank": 0.23
+    },
+    {
+      "document": "1810.04805v2.pdf",
+      "page_number": 11,
+      "section_title": "the 2016 Conference on Empirical Methods in Nat-",
+      "importance_rank": 0.23
+    },
+    {
+      "document": "1810.04805v2.pdf",
+      "page_number": 16,
+      "section_title": "The results are presented in Table  8 . In the table,",
+      "importance_rank": 0.221
+    }
+  ],
+  "subsection_analysis": [
+    {
+      "document": "1406.2661v1.pdf",
+      "page_number": 1,
+      "refined_text": "2   everywhere. In the case where  G  and  D  are deﬁned"
+    },
+    {
+      "document": "1406.2661v1.pdf",
+      "page_number": 3,
+      "refined_text": "the domain from which  z  is sampled, in this case uniformly. The horizontal line above is part of the domain"
+    },
+    {
+      "document": "1406.2661v1.pdf",
+      "page_number": 5,
+      "refined_text": "derivative of the function at the point where the maximum is attained. In other words, if  f ( x ) ="
+    },
+    {
+      "document": "1406.2661v1.pdf",
+      "page_number": 6,
+      "refined_text": "samples are at least competitive with the better generative models in the literature and highlight the"
+    },
+    {
+      "document": "1512.03385v1.pdf",
+      "page_number": 1,
+      "refined_text": "on the ImageNet  test  set. This result won the 1st place on the"
+    },
+    {
+      "document": "1512.03385v1.pdf",
+      "page_number": 1,
+      "refined_text": "and the leading results [41, 44, 13, 16] on the challenging"
+    },
+    {
+      "document": "1512.03385v1.pdf",
+      "page_number": 2,
+      "refined_text": "ImageNet  test  set, and  won the 1st place in the ILSVRC"
+    },
+    {
+      "document": "1512.03385v1.pdf",
+      "page_number": 3,
+      "refined_text": "Here  x  and  y  are the input and output vectors of the lay-"
+    },
+    {
+      "document": "1512.03385v1.pdf",
+      "page_number": 3,
+      "refined_text": "The dimensions of  x  and  F  must be equal in Eqn.(1)."
+    },
+    {
+      "document": "1512.03385v1.pdf",
+      "page_number": 7,
+      "refined_text": "on the training set and evaluated on the test set. Our focus"
+    },
+    {
+      "document": "1512.03385v1.pdf",
+      "page_number": 7,
+      "refined_text": "is on the behaviors of extremely deep networks, but not on"
+    },
+    {
+      "document": "1512.03385v1.pdf",
+      "page_number": 7,
+      "refined_text": "and adopt the weight initialization in [13] and BN [16] but"
+    },
+    {
+      "document": "1512.03385v1.pdf",
+      "page_number": 8,
+      "refined_text": "distracting from the focus on the difﬁculties of optimiza-"
+    },
+    {
+      "document": "1512.03385v1.pdf",
+      "page_number": 8,
+      "refined_text": "and COCO segmentation. The details are in the appendix."
+    },
+    {
+      "document": "1512.03385v1.pdf",
+      "page_number": 9,
+      "refined_text": "In  Neural Networks: Tricks of the Trade , pages 9–50. Springer, 1998."
+    },
+    {
+      "document": "1512.03385v1.pdf",
+      "page_number": 9,
+      "refined_text": "the nonlinear dynamics of learning in deep linear neural networks."
+    },
+    {
+      "document": "1512.03385v1.pdf",
+      "page_number": 10,
+      "refined_text": "ing and the 40k images on the val set for evaluation. Our"
+    },
+    {
+      "document": "1512.03385v1.pdf",
+      "page_number": 11,
+      "refined_text": "won the 1st place in the detection task in COCO 2015."
+    },
+    {
+      "document": "1706.03762v7.pdf",
+      "page_number": 1,
+      "refined_text": "reproduce the tables and figures in this paper solely for use in journalistic or"
+    },
+    {
+      "document": "1706.03762v7.pdf",
+      "page_number": 1,
+      "refined_text": "attention and the parameter-free position representation and became the other person involved in nearly every"
+    },
+    {
+      "document": "1706.03762v7.pdf",
+      "page_number": 2,
+      "refined_text": "in particular, have been firmly established as state of the art approaches in sequence modeling and"
+    },
+    {
+      "document": "1706.03762v7.pdf",
+      "page_number": 2,
+      "refined_text": "The Transformer allows for significantly more parallelization and can reach a new state of the art in"
+    },
+    {
+      "document": "1706.03762v7.pdf",
+      "page_number": 3,
+      "refined_text": "connected layers for both the encoder and decoder, shown in the left and right halves of Figure 1,"
+    },
+    {
+      "document": "1706.03762v7.pdf",
+      "page_number": 5,
+      "refined_text": "and the memory keys and values come from the output of the encoder. This allows every"
+    },
+    {
+      "document": "1706.03762v7.pdf",
+      "page_number": 5,
+      "refined_text": "position in the decoder to attend over all positions in the input sequence. This mimics the"
+    },
+    {
+      "document": "1706.03762v7.pdf",
+      "page_number": 5,
+      "refined_text": "and queries come from the same place, in this case, the output of the previous layer in the"
+    },
+    {
+      "document": "1706.03762v7.pdf",
+      "page_number": 5,
+      "refined_text": "encoder. Each position in the encoder can attend to all positions in the previous layer of the"
+    },
+    {
+      "document": "1706.03762v7.pdf",
+      "page_number": 6,
+      "refined_text": "size of convolutions and  r  the size of the neighborhood in restricted self-attention."
+    },
+    {
+      "document": "1706.03762v7.pdf",
+      "page_number": 6,
+      "refined_text": "traverse in the network. The shorter these paths between any combination of positions in the input"
+    },
+    {
+      "document": "1706.03762v7.pdf",
+      "page_number": 6,
+      "refined_text": "the maximum path length between any two input and output positions in networks composed of the"
+    },
+    {
+      "document": "1706.03762v7.pdf",
+      "page_number": 7,
+      "refined_text": "or  O ( log k ( n ))  in the case of dilated convolutions [ 18 ], increasing the length of the longest paths"
+    },
+    {
+      "document": "1706.03762v7.pdf",
+      "page_number": 8,
+      "refined_text": "sub-layer input and normalized. In addition, we apply dropout to the sums of the embeddings and the"
+    },
+    {
+      "document": "1706.03762v7.pdf",
+      "page_number": 8,
+      "refined_text": "positional encodings in both the encoder and decoder stacks. For the base model, we use a rate of"
+    },
+    {
+      "document": "1706.03762v7.pdf",
+      "page_number": 8,
+      "refined_text": "in different ways, measuring the change in performance on English-to-German translation on the"
+    },
+    {
+      "document": "1706.03762v7.pdf",
+      "page_number": 9,
+      "refined_text": "In Table 3 rows (A), we vary the number of attention heads and the attention key and value dimensions,"
+    },
+    {
+      "document": "1706.03762v7.pdf",
+      "page_number": 11,
+      "refined_text": "age recognition. In  Proceedings of the IEEE Conference on Computer Vision and Pattern"
+    },
+    {
+      "document": "1706.03762v7.pdf",
+      "page_number": 11,
+      "refined_text": "across languages. In  Proceedings of the 2009 Conference on Empirical Methods in Natural"
+    },
+    {
+      "document": "1706.03762v7.pdf",
+      "page_number": 12,
+      "refined_text": "and interpretable tree annotation. In  Proceedings of the 21st International Conference on"
+    },
+    {
+      "document": "1804.02767v1.pdf",
+      "page_number": 2,
+      "refined_text": "grained features from early on in the network."
+    },
+    {
+      "document": "1804.02767v1.pdf",
+      "page_number": 3,
+      "refined_text": "performance on medium and larger size objects. More in-"
+    },
+    {
+      "document": "1804.02767v1.pdf",
+      "page_number": 4,
+      "refined_text": "1 The author is funded by the Ofﬁce of Naval Research and Google."
+    },
+    {
+      "document": "1804.02767v1.pdf",
+      "page_number": 5,
+      "refined_text": "In  Proceedings of the IEEE Conference on Computer Vision"
+    },
+    {
+      "document": "1804.02767v1.pdf",
+      "page_number": 5,
+      "refined_text": "In  Proceedings of the IEEE Conference on Computer Vision"
+    },
+    {
+      "document": "1810.04805v2.pdf",
+      "page_number": 1,
+      "refined_text": "task-speciﬁc parameters, and is trained on the"
+    },
+    {
+      "document": "1810.04805v2.pdf",
+      "page_number": 1,
+      "refined_text": "the tokens from the input, and the objective is to"
+    },
+    {
+      "document": "1810.04805v2.pdf",
+      "page_number": 3,
+      "refined_text": "i.e., 3072 for the  H  = 768  and 4096 for the  H  = 1024 ."
+    },
+    {
+      "document": "1810.04805v2.pdf",
+      "page_number": 3,
+      "refined_text": "4 We note that in the literature the bidirectional Trans-"
+    },
+    {
+      "document": "1810.04805v2.pdf",
+      "page_number": 4,
+      "refined_text": "Cloze  task in the literature ( Taylor ,  1953 ). In this"
+    },
+    {
+      "document": "1810.04805v2.pdf",
+      "page_number": 5,
+      "refined_text": "tively inexpensive. All of the results in the pa-"
+    },
+    {
+      "document": "1810.04805v2.pdf",
+      "page_number": 5,
+      "refined_text": "scribe the task-speciﬁc details in the correspond-"
+    },
+    {
+      "document": "1810.04805v2.pdf",
+      "page_number": 6,
+      "refined_text": "predict the answer text span in the passage."
+    },
+    {
+      "document": "1810.04805v2.pdf",
+      "page_number": 6,
+      "refined_text": "As shown in Figure  1 , in the question answer-"
+    },
+    {
+      "document": "1810.04805v2.pdf",
+      "page_number": 6,
+      "refined_text": "tion using the  A  embedding and the passage using"
+    },
+    {
+      "document": "1810.04805v2.pdf",
+      "page_number": 6,
+      "refined_text": "all of the words in the paragraph:  P i  ="
+    },
+    {
+      "document": "1810.04805v2.pdf",
+      "page_number": 6,
+      "refined_text": "The analogous formula is used for the end of the"
+    },
+    {
+      "document": "1810.04805v2.pdf",
+      "page_number": 8,
+      "refined_text": "with 100M parameters for the encoder, and the"
+    },
+    {
+      "document": "1810.04805v2.pdf",
+      "page_number": 9,
+      "refined_text": "layer in the output. We use the representation of"
+    },
+    {
+      "document": "1810.04805v2.pdf",
+      "page_number": 10,
+      "refined_text": "the 2017 Conference on Empirical Methods in Nat-"
+    },
+    {
+      "document": "1810.04805v2.pdf",
+      "page_number": 10,
+      "refined_text": "sequence learning. In  Advances in neural informa-"
+    },
+    {
+      "document": "1810.04805v2.pdf",
+      "page_number": 11,
+      "refined_text": "In  Proceedings of the 2018 Conference on Empiri-"
+    },
+    {
+      "document": "1810.04805v2.pdf",
+      "page_number": 11,
+      "refined_text": "the 2016 Conference on Empirical Methods in Nat-"
+    },
+    {
+      "document": "1810.04805v2.pdf",
+      "page_number": 11,
+      "refined_text": "In  Proceedings of the 2013 conference on"
+    },
+    {
+      "document": "1810.04805v2.pdf",
+      "page_number": 11,
+      "refined_text": "for semi-supervised learning. In  Proceedings of the"
+    },
+    {
+      "document": "1810.04805v2.pdf",
+      "page_number": 12,
+      "refined_text": "In  Proceedings of the 56th Annual Meeting of the As-"
+    },
+    {
+      "document": "1810.04805v2.pdf",
+      "page_number": 12,
+      "refined_text": "neural networks? In  Advances in neural information"
+    },
+    {
+      "document": "1810.04805v2.pdf",
+      "page_number": 13,
+      "refined_text": "conditioned on both left and right context in all layers. In addition to the architecture differences, BERT and"
+    },
+    {
+      "document": "1810.04805v2.pdf",
+      "page_number": 15,
+      "refined_text": "for whether the sentences in the pair are semanti-"
+    },
+    {
+      "document": "1810.04805v2.pdf",
+      "page_number": 16,
+      "refined_text": "The results are presented in Table  8 . In the table,"
+    },
+    {
+      "document": "1810.04805v2.pdf",
+      "page_number": 16,
+      "refined_text": "The numbers in the left part of the table repre-"
+    }
+  ]
+}

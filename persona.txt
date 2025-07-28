@@ -1,0 +1,2 @@
+PhD Researcher in Computational Biology  
+The researcher specializes in drug discovery using advanced machine learning methods. They have deep expertise in bioinformatics, graph neural networks, and biomedical datasets. The focus is on understanding cutting-edge methodologies and comparing experimental performance benchmarks in the context of computational drug discovery.
